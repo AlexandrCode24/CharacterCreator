@@ -1,0 +1,14 @@
+C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\bin\Debug\net9.0\CharacterCreator.exe
+C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\bin\Debug\net9.0\CharacterCreator.deps.json
+C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\bin\Debug\net9.0\CharacterCreator.runtimeconfig.json
+C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\bin\Debug\net9.0\CharacterCreator.dll
+C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\bin\Debug\net9.0\CharacterCreator.pdb
+C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\obj\Debug\net9.0\CharacterCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\obj\Debug\net9.0\CharacterCreator.AssemblyInfoInputs.cache
+C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\obj\Debug\net9.0\CharacterCreator.AssemblyInfo.cs
+C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\obj\Debug\net9.0\CharacterCreator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\obj\Debug\net9.0\CharacterCreator.dll
+C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\obj\Debug\net9.0\refint\CharacterCreator.dll
+C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\obj\Debug\net9.0\CharacterCreator.pdb
+C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\obj\Debug\net9.0\CharacterCreator.genruntimeconfig.cache
+C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\obj\Debug\net9.0\ref\CharacterCreator.dll
