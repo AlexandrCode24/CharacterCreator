@@ -12,3 +12,4 @@ C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\obj\Debug\net9.0\
 C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\obj\Debug\net9.0\CharacterCreator.pdb
 C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\obj\Debug\net9.0\CharacterCreator.genruntimeconfig.cache
 C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\obj\Debug\net9.0\ref\CharacterCreator.dll
+C:\Users\Alex\OneDrive\Desktop\Coding\C# Work\CharacterCreator\obj\Debug\net9.0\CharacterCreator.sourcelink.json
