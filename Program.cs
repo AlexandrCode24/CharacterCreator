@@ -28,7 +28,7 @@ namespace CharacterCreator
 
                     //set the characteristics of your character
                     SetCharacterData(character);
-                    setStartingInventory(character);
+                    SetStartingInventory(character);
                     character.DisplayCharacter();
                 }
                 if (userInput == "2")
@@ -113,7 +113,7 @@ namespace CharacterCreator
         }
 
         //This method assigns starter items based on character class.
-        static void setStartingInventory(Character character)
+        static void SetStartingInventory(Character character)
         {
             switch (character.Class)
             {
