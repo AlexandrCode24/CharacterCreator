@@ -1,6 +1,3 @@
-using System.Diagnostics;
-using System.Globalization;
-
 namespace CharacterCreator
 {
     public class Character
